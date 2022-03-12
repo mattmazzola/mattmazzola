@@ -1,8 +1,7 @@
 # Matt Mazzola
 
 ## 🔭 I’m currently working on
-- Improving the way people build chatbots
-  - [Conversation Learner](https://www.microsoft.com/en-us/research/project/conversation-learner/)
+- Developing a research platform for collecting language data.
   
 ## 🌱 Some hobby projects include
 - www.sc2info.com - Website for looking up information about StarCraft 2 units
@@ -11,5 +10,3 @@
 
 ## 🎮 Some games I play
 - StarCraft 2
-- Valorant
-- Hopefully CyberPunk 2077 when it releases
