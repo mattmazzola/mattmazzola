@@ -4,9 +4,7 @@
 - Developing a research platform for collecting language data.
   
 ## 🌱 Some hobby projects include
-- www.sc2info.com - Website for looking up information about StarCraft 2 units
-- www.sc2iq.com - Website for answering questions related to StarCraft 2 to find out your game IQ and vote on changes.
-- Various other things...
+- Hope to add more projects soon
 
 ## 🎮 Some games I play
-- StarCraft 2
+- [StarCraft 2](https://starcraft2.com/en-us/)
