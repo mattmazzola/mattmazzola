@@ -6,10 +6,10 @@
   
 ## 🌱 Some hobby projects include
 
-- See my [Personal Project's Page](http://mattmazzola.github.io/)
+- See my <a target="_blank" href="http://mattmazzola.github.io/">Personal Project's Page</a>
 - Trying to keep up with the developments in AI
 
 ## 🎮 Some games I play
 
-- [StormGate](https://playstormgate.com/)
-- [StarCraft 2](https://starcraft2.com/en-us/)
+- <a target="_blank" href="https://playstormgate.com/">StormGate</a>
+- <a target="_blank" href="https://starcraft2.com/en-us/">StarCraft 2</a>
