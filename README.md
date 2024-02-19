@@ -11,5 +11,5 @@
 
 ## 🎮 Some games I play
 
-- [Storm Gate](https://playstormgate.com/)
+- [StormGate](https://playstormgate.com/)
 - [StarCraft 2](https://starcraft2.com/en-us/)
