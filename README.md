@@ -2,7 +2,7 @@
 
 ## 🔭 I’m currently working on
 
-- Developing a Pipeline and Demo for Multi-modal Model
+- Embodied AI. Specifically, exploring how <a target="_blank" href="https://www.nvidia.com/en-us/omniverse/">NVidia Omniverse</a> platform can be used to collect data from simulated robots for training LMMs
   
 ## 🌱 Some hobby projects include
 
