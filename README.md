@@ -2,7 +2,7 @@
 
 ## 🔭 I’m currently working on
 
-- Embodied AI. Specifically, exploring how <a target="_blank" href="https://www.nvidia.com/en-us/omniverse/">NVidia Omniverse</a> platform can be used to collect data from simulated robots for training LMMs
+- Generating training data for multi-modal models to develop better spatial understanding and planning ability using games.
   
 ## 🌱 Some hobby projects include
 
@@ -11,5 +11,5 @@
 
 ## 🎮 Some games I play
 
-- <a target="_blank" href="https://playstormgate.com/">StormGate</a>
 - <a target="_blank" href="https://starcraft2.com/en-us/">StarCraft 2</a>
+- <a target="_blank" href="https://playstormgate.com/">StormGate</a>
